@@ -1,7 +1,5 @@
 # module-22-challenge
 
-# Home Sales Analysis with Spark
-
 ### See Jupyter notebook for code
 
 ## Overview

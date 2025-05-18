@@ -6,5 +6,5 @@
 
 ## Overview
 
-This project analyzes a real estate dataset using Apache Spark in a Google Colab environment. The dataset, `home_sales_revised.csv`, contains information about home sales including price, location, view rating, and construction date. The objective is to perform efficient data analysis using SparkSQL, caching, and partitioning strategies.
+This project analyzes a real estate dataset using Apache Spark in a Google Colab environment. The dataset, `home_sales.csv`, contains information about home sales including price, location, view rating, and construction date. The objective is to perform efficient data analysis using SparkSQL, caching, and partitioning strategies.
 
